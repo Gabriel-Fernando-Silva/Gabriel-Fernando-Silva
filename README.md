@@ -32,7 +32,7 @@
     
   <td valign="top" width="50%" style="text-align: center;">
       <!-- <img src="https://github-readme-stats.vercel.app/api?username=Gabrielfer0113&theme=dark&show_icons=true&hide_border=true&count_private=true" style="width: 100%; max-width: 400px;"> -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabrielfer0113&theme=dark&hide_border=true" style="width: 100%; max-width: 400px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-Fernando-Silva&theme=dark&hide_border=true" style="width: 100%; max-width: 400px;">
       <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielfer0113&theme=dark&show_icons=true&hide_border=true&layout=compact" style="width: 100%; max-width: 400px;"> -->
     </td>
     
@@ -40,8 +40,8 @@
 </table>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabrielfer0113/Gabrielfer0113/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabrielfer0113/Gabrielfer0113/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabrielfer0113/Gabrielfer0113/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gabriel-Fernando-Silva/Gabriel-Fernando-Silva/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gabriel-Fernando-Silva/Gabriel-Fernando-Silva/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gabriel-Fernando-Silva/Gabriel-Fernando-Silva/output/github-contribution-grid-snake.svg">
 </picture>
 
