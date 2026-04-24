@@ -1,23 +1,52 @@
 <table border="0" style="table-layout: fixed; width: 100%;">
   <tr>
     <td valign="top" width="50%" style="text-align: center;">
-      • Estudante de Ciência da Computação 5° Semestre| Foco em Engenharia de Dados | SQL | Python | ETL <br>
-      ‎‎• HTML 5</br>
-      • CSS 3</br>
-      • Bootstrap</br>
-      • JavaScript</br>
-      • Python</br>
-      • C#</br>
-      • PostgreSQL</br>
-      • SQLite</br>
-      • MySQL Workbench</br>
-      • MongoDB</br>
-      • Redis</br>
-      • JSON</br>
-      • Django</br>
-      • .NET MAUI</br>
-      • Docker</br>
-      • GitHub Actions</br>
+  # 👋 Gabriel Fernando da Silva
+
+💾 Estudante de Ciência da Computação (5º semestre) | Foco em Engenharia de Dados
+
+---
+
+## 🚀 Sobre mim
+
+Tenho interesse em engenharia de dados e experiência com SQL e Python para manipulação de dados.
+Atualmente estou aprofundando meus conhecimentos em ETL, modelagem de dados e construção de pipelines.
+
+---
+
+## 🛠️ Tecnologias
+
+* Python
+* SQL (PostgreSQL, MySQL, SQLite)
+* MongoDB
+* Redis (cache e otimização de performance)
+* Docker
+* Git & GitHub Actions
+
+---
+
+## 📊 Projetos em destaque
+
+🔹 **StockBuyRep**
+Sistema para controle de vendas e geração de relatórios, com foco em organização e manipulação de dados.
+
+🔹 **Roadmap Git & GitHub**
+Repositório com anotações e práticas sobre versionamento e fluxo de desenvolvimento.
+
+---
+
+## 📚 Atualmente estudando
+
+* ETL / ELT
+* Data Warehousing
+* Engenharia de Dados
+
+---
+
+## 📫 Contato
+
+📧 [g.fernandosilvaof@gmail.com](mailto:g.fernandosilvaof@gmail.com)
+
       </br>
         </br>
           </br>
