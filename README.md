@@ -1,7 +1,7 @@
 <table border="0" style="table-layout: fixed; width: 100%;">
   <tr>
     <td valign="top" width="50%" style="text-align: center;">
-  # 👋 Gabriel Fernando da Silva
+# 👋 Gabriel Fernando da Silva
 
 💾 Estudante de Ciência da Computação (5º semestre) | Foco em Engenharia de Dados
 
@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 Tenho interesse em engenharia de dados e experiência com SQL e Python para manipulação de dados.
-Atualmente estou aprofundando meus conhecimentos em ETL, modelagem de dados e construção de pipelines.
+Atualmente estou desenvolvendo projetos focados em ingestão, tratamento e organização de dados para análise.
 
 ---
 
@@ -27,11 +27,19 @@ Atualmente estou aprofundando meus conhecimentos em ETL, modelagem de dados e co
 
 ## 📊 Projetos em destaque
 
+🔹 **CVE Data Platform (em desenvolvimento)**
+Sistema para ingestão e processamento de dados de vulnerabilidades (CVE), utilizando API externa para coleta e armazenamento estruturado para análise e visualização.
+
+**Status:** 🚧 Em desenvolvimento
+
+* ✔️ Modelagem do banco de dados
+* 🔄 Integração com API de CVE (em andamento)
+* ⏳ Pipeline de ingestão automatizada (próximo passo)
+
+---
+
 🔹 **StockBuyRep**
 Sistema para controle de vendas e geração de relatórios, com foco em organização e manipulação de dados.
-
-🔹 **Roadmap Git & GitHub**
-Repositório com anotações e práticas sobre versionamento e fluxo de desenvolvimento.
 
 ---
 
