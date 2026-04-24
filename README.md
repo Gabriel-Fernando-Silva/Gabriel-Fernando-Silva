@@ -1,7 +1,7 @@
 <table border="0" style="table-layout: fixed; width: 100%;">
   <tr>
     <td valign="top" width="50%" style="text-align: center;">
-      • Estudante de Ciências Da Computação | 4° Semestre</br>
+      • Estudante de Ciências Da Computação | 5° Semestre</br>
       • Desenvolvedor full-stack</br>
       ‎‎• HTML 5</br>
       • CSS 3</br>
@@ -13,6 +13,7 @@
       • SQLite</br>
       • MySQL Workbench</br>
       • MongoDB</br>
+      • Redis</br>
       • JSON</br>
       • Django</br>
       • .NET MAUI</br>
